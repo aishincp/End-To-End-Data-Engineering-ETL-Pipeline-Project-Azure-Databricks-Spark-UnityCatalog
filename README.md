@@ -1,12 +1,10 @@
 # End-To-End-Data-Engineering-ETL-Pipeline-Project-Azure-Databricks-Spark-UnityCatalog
 
-$${\color{red}Color \space Yellow \space Red}$$
-
 ## *A. Project Overview:*
 This project demonstrates the design, development, & implementation of a robust, scalable & fully automated end-to-end data engineering ETL pipeline built on **Microsoft Azure and Databricks**. The pipeline processes raw data (parquet files), transforms it through a **Medallion Architecture (Bronze, Silver & Gold Layers)**, and prepares it for analytical consumption, which can ultimately connect to Power BI for business reporting.
 
 ## *B. Architecture Diagram:*
-Below is the high-level architecture diagram of data pipeline, illustrating the flow of data from ingestion to consumption across various Azure & Databricks services.
+Below is the high-level architecture diagram of the data pipeline, illustrating the flow of data from ingestion to consumption across various Azure & Databricks services.
 
 ![AzureDatabricksArchitecture_Big](https://github.com/user-attachments/assets/9b6a26cf-6ae0-4383-8326-11e6257fbe1b)
 
